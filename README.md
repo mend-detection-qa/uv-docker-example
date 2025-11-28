@@ -1,3 +1,14 @@
+### 8. astral-sh/uv-docker-example
+- **URL:** https://github.com/astral-sh/uv-docker-example
+- **Stars:** Unknown (official example)
+- **Type:** Docker Template / Example
+- **UV Version:** 0.9.x
+- **Main Dependencies:** Minimal (example focused)
+- **Key Features:** Multi-stage builds, layer caching optimization, production-optimized
+- **Why Analyzed:** Official Docker integration, production best practices
+
+
+
 # uv-docker-example
 
 An example project for using uv in Docker images, with a focus on best practices for developing with
